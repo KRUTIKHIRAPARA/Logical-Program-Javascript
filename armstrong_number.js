@@ -3,8 +3,6 @@
 // Logic :- 153 - 1*1*1 + 5*5*5 + 3*3*3 = 153
 
 
-
-
 var checkNumber = 123;
 var temp = checkNumber;
 var noOfDigit = checkNumber.toString().length;
